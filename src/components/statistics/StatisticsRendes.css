@@ -1,0 +1,17 @@
+.display-feedbacks {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 30px;
+}
+
+.display-feedbacks img {
+  width: 100px;
+  height: 100px;
+}
+
+.statistic {
+  text-transform: capitalize;
+  font-weight: 600;
+}
